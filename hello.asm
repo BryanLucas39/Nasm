@@ -14,3 +14,4 @@
 
             section .data
             message:db "hello,word",10
+            
